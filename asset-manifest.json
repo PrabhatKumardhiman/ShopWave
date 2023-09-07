@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ShopWave/static/css/main.b8e38e0d.css",
-    "main.js": "/ShopWave/static/js/main.9e617801.js",
+    "main.js": "/ShopWave/static/js/main.ae823b38.js",
     "index.html": "/ShopWave/index.html",
     "main.b8e38e0d.css.map": "/ShopWave/static/css/main.b8e38e0d.css.map",
-    "main.9e617801.js.map": "/ShopWave/static/js/main.9e617801.js.map"
+    "main.ae823b38.js.map": "/ShopWave/static/js/main.ae823b38.js.map"
   },
   "entrypoints": [
     "static/css/main.b8e38e0d.css",
-    "static/js/main.9e617801.js"
+    "static/js/main.ae823b38.js"
   ]
 }
